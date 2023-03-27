@@ -183,3 +183,12 @@ footer {
     background: rgb(238, 108, 61);
     padding: 10px;
 }
+
+.icons-section>a>i {
+    font-size: 30px;
+    ;
+}
+
+.icons-section {
+    margin-top: 10px;
+}
