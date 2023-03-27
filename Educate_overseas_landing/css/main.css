@@ -1,3 +1,9 @@
+/** main css file for Education Overseas landing page 
+
+author:zabiulla
+
+**/
+
 * {
     margin: 0;
     padding: 0;
@@ -166,7 +172,6 @@ nav {
 .fa-map-marker {
     width: 20px;
     font-size: 26px;
-    padding-top: 8px;
 }
 
 .map-details>span {
