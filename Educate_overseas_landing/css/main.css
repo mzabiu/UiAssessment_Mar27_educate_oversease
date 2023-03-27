@@ -8,6 +8,10 @@
     gap: 10px;
 }
 
+.logo-section1 {
+    width: 500px;
+}
+
 .contact-section {
     background-color: rgb(238, 108, 61);
     width: 50%;
@@ -26,8 +30,7 @@
 
 .color-navbar,
 #navbarCenteredExample {
-    background: rgb(66, 86, 115);
-    opacity: 50%;
+    background: rgba(66, 86, 115);
 }
 
 li a,
@@ -52,6 +55,7 @@ nav {
 .mission {
     width: 20%;
     height: 250px;
+    gap: 10px;
 }
 
 .mission-vision-values {
@@ -85,8 +89,8 @@ nav {
 .imag,
 .logo-section {
     background: white;
-    height: 70px;
-    width: 70px;
+    height: 60px;
+    width: 60px;
     border-radius: 50%;
 }
 
@@ -135,7 +139,8 @@ nav {
     margin: 20px;
 }
 
-.call-us-desc, .footer-details {
+.call-us-desc,
+.footer-details {
     color: white;
 }
 
@@ -147,13 +152,15 @@ nav {
     flex-wrap: nowrap;
 }
 
-.map-details, .icons-section {
+.map-details,
+.icons-section {
     gap: 20px;
     align-items: center;
 }
 
 .logo-section {
     font-size: 30px;
+
 }
 
 .fa-map-marker {
@@ -166,7 +173,8 @@ nav {
     display: block;
 
 }
-footer{
+
+footer {
     background: rgb(238, 108, 61);
-    padding:10px;
+    padding: 10px;
 }
