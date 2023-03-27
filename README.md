@@ -1,1 +1,1 @@
-# UiAssessment_Mar27_educate_oversease
+# HTML, CSS, Bootstrap assessments
