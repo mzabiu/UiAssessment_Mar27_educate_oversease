@@ -15,7 +15,7 @@ author:zabiulla
 }
 
 .logo-section1 {
-    width: 500px;
+    width: 600px;
 }
 
 .contact-section {
@@ -26,6 +26,7 @@ author:zabiulla
     color: white;
     gap: 30px;
     height: 50px;
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 15% 100%, 11% 0%);
 }
 
 .logo-section {
